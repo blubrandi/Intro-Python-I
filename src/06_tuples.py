@@ -12,7 +12,6 @@ Additionally, your code will be safer if you opt to "write-protect"
 data that does not need to be changed. Tuples enforce immutability
 automatically.
 """
-
 # Example:
 
 # import math
